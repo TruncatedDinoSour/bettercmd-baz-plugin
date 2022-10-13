@@ -22,3 +22,4 @@ $ baz install git 'https://ari-web.xyz/gh/bettercmd-baz-plugin'
 - `grep` -- Enables colour, ignore case, adds filename and line num
 - `diff` -- Enables colour
 - `mpvp` -- Play a playlist using MPV
+- `zathura` -- Enables forking
