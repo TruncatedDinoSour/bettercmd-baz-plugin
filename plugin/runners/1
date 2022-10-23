@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+alias cp='cp -i' \
+    curl='curl -fL' \
+    diff='diff --color=auto' \
+    grep='grep --color=auto -iHn' \
+    less='less -NJ --line-num-width=2' \
+    lsblk='lsblk -f' \
+    mkdir='mkdir -m 700 -p' \
+    mpvp='mpv --shuffle --loop-playlist' \
+    mv='mv -i' \
+    time='\time -v' \
+    zathura='zathura --fork'
