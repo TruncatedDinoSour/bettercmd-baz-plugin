@@ -10,4 +10,5 @@ alias cp='cp -i' \
     mpvp='mpv --shuffle --loop-playlist' \
     mv='mv -i' \
     time='\time -v' \
-    zathura='zathura --fork'
+    zathura='zathura --fork' \
+    ip='ip --color=auto'
